@@ -1,0 +1,22 @@
+rev1:::
+*goal:
+--forwarded here from ECO-018941, because need to not make 22004490 rev7
+-Add 22042094 to ECO, update attachment with new file Bart sent
+-Add 22026872 to ECO, it will be rev001, drawing update
+
+*did:
+-created eco
+-added both pn's
+-removed old attachments and uploaded new atachments for 22042094
+//actually didnt do:-emailed dave, cc cissy and bart, eco number so he knows when updating 22026872
+
+
+**wip
+-Dave is working on drawing
+2/5/14
+-Reminded him he made update at 2/5/14 115p but it still says rev0, i need it to say rev1
+-He got back said that rev1 is in thre and just needs to go through ECO, he emailed cissy a qustion in this same email, so waiting for Cissy to reply before I submit this eco
+-I asked cissy for pre-submit review and she told me: "Please add the product line number to the ECO and CM if it is require. Please remove the rev. 000 drawing and upload a pdf file from the EC-connector under the item attachment"
+-Cissy told me to downlaod pdf from ec-connector and attach and now im stuck, i emailed her, waiting for response
+-I had to get permission, cissy told me on 2/10/14 to get it from Dave and she will attach for now
+-2/12/14 i thoguht she attached it and submitted it but she just attached it, so now i submitted it
